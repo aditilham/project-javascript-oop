@@ -1,0 +1,16 @@
+{
+    "name": "project-javascript-oop",
+    "version": "1.0.0",
+    "description": "This is my Project JavaScript OOP",
+    "main": "index.js",
+    "scripts": {
+        "start": "node index.js"
+    },
+    "repository": "https://github.com/aditilham/project-javascript-oop.git",
+    "author": "Adit Ilham Nugroho",
+    "license": "MIT",
+    "private": true,
+    "dependencies": {
+        "chalk": "^2.4.2"
+    }
+}
